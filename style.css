@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(back.jpg);
+    height: 800px; 
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-bar{
+    background: rgb(0, 0, 0, 0.5);
+    height: 80px;
+
+}
+.logo{
+    margin: 20px 30px;
+    height: 90px;
+    width: 100px;
+    border-radius: 25px;
+   
+  
+}
+
+.list{
+    
+    float: right;
+    list-style: none;
+    margin: 20px;   
+}
+.list li{
+    display: inline-block;
+    margin: 10px 5px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    padding: 5px 10px;
+    font-weight: 750;
+    font-size: 18px;
+}
+
+h1{
+    text-transform: capitalize;
+}
+.center{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    top:220px;
+    margin: 50px;
+}
