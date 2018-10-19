@@ -1,2 +1,2 @@
 # Foss-Repo
-Website materials for FOSS
+Website material for FOSS
